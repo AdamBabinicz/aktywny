@@ -1,6 +1,8 @@
 .about__content img {
   margin: 4rem auto 0 auto;
-  width: 260px;
+  width: 8rem;
+  height: 100%;
+  object-fit: cover;
 }
 .about__content p.para__text {
   max-width: 890px;
