@@ -1,0 +1,26 @@
+.skills__item--title {
+  margin-bottom: 2rem;
+}
+.skills__item--progressbar {
+  height: 4px;
+  width: 100%;
+  position: relative;
+  background: var(--grey-color);
+  margin-bottom: 4rem;
+}
+.skills__item--progressbar div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background: var(--robin-blue-color);
+}
+.skills__item {
+  min-width: 600px;
+}
+
+@media only screen and (min-width: 992px) {
+  .skills__content {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
