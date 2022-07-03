@@ -71,7 +71,7 @@ const Footer = () => {
           </div>
           <div className="footer__content--item">
             <h3 className="footer__title">Media</h3>
-            <ul className="footer__links">
+            <ul className="footer__links flex">
               <li>
                 <a
                   href="//www.instagram.com/p/CCqV4hCFqYl"
