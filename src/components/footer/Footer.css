@@ -14,7 +14,12 @@
 }
 .footer__links {
   display: flex;
-  justify-content: space-around;
+  flex-direction: column;
+}
+.fl {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
 }
 .footer__links li {
   margin-right: 1rem;
@@ -30,6 +35,10 @@
   .footer__content {
     grid-template-columns: repeat(2, 1fr);
     column-gap: 4rem;
+  }
+  .footer__links {
+    display: flex;
+    justify-content: space-around;
   }
 }
 
