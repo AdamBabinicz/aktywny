@@ -40,6 +40,10 @@
 .text__center {
   text-align: center;
 }
+.text__center h2,
+h2.text__center {
+  font-size: 3.5rem;
+}
 .text__upper {
   text-transform: uppercase;
 }

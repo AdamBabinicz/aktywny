@@ -6,7 +6,7 @@ const Contact = () => {
     <div className="contact section__padding bg__whitesmoke" id="kontakt">
       <div className="container">
         <h2 className="section__title text__center">
-          Bądź użyteczny - ucz&nbsp;się i&nbsp;pomagaj!
+          Bądź potrzebny - ucz&nbsp;się i&nbsp;pomagaj!
         </h2>
         <p className="para__text text__center">
           Jesteś już na emeryturze lub rencie? Masz wiedzę i&nbsp;czas?
