@@ -24,22 +24,22 @@ const skills = [
 const stats = [
   {
     img: `${images.icon_briefcase}`,
-    value: 90,
+    value: 107,
     title: "wykonane projekty",
   },
   {
     img: `${images.icon_clock}`,
-    value: "3 lata",
+    value: "4 lata",
     title: "aerobic w wodzie",
   },
   {
     img: `${images.icon_star_white}`,
-    value: "2 lata",
+    value: "3 lata",
     title: "wolontariat sportowy",
   },
   {
     img: `${images.icon_heart}`,
-    value: "1 rok",
+    value: "2 rok",
     title: "ćwiczenia 'mocny kręgosłup'",
   },
 ];
