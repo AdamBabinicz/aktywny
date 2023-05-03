@@ -17,12 +17,16 @@ import icon_star_white from "../assets/images/5.png";
 import skills_bg from "../assets/images/skills-bg.jpg";
 import work_1 from "../assets/images/3.jpg";
 import work_2 from "../assets/images/2.jpg";
-import work_3 from "../assets/images/4.jpg";
-import work_4 from "../assets/images/5.jpg";
-import work_5 from "../assets/images/6.jpg";
-import work_6 from "../assets/images/7.jpg";
-import work_7 from "../assets/images/8.jpg";
-import work_8 from "../assets/images/9.jpg";
+import work_3 from "../assets/images/13.jpg";
+import work_4 from "../assets/images/14.jpg";
+import work_5 from "../assets/images/15.jpg";
+
+import work_6 from "../assets/images/4.jpg";
+import work_7 from "../assets/images/5.jpg";
+import work_8 from "../assets/images/6.jpg";
+import work_9 from "../assets/images/7.jpg";
+import work_10 from "../assets/images/8.jpg";
+import work_11 from "../assets/images/9.jpg";
 import img from "../assets/images/20.png";
 import img1 from "../assets/images/22.png";
 import img2 from "../assets/images/23.png";
@@ -53,6 +57,9 @@ export default {
   work_6,
   work_7,
   work_8,
+  work_9,
+  work_10,
+  work_11,
   img,
   img1,
   img2,
