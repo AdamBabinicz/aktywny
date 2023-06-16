@@ -14,7 +14,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.4);
   opacity: 0;
   transition: var(--transition);
 }
@@ -95,4 +95,17 @@
 }
 .modal__close--btn:hover {
   color: var(--dark-color) !important;
+}
+
+@media only screen and (max-width: 678px) {
+  .work__content--item .icon {
+    display: none;
+  }
+  .work__content--item::after {
+    background: transparent;
+  }
+  .image__modal__show {
+    visibility: hidden;
+    opacity: 0;
+  }
 }
