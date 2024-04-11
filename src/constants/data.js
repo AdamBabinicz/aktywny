@@ -24,7 +24,7 @@ const skills = [
 const stats = [
   {
     img: `${images.icon_briefcase}`,
-    value: 107,
+    value: 109,
     title: "wykonane projekty",
   },
   {
